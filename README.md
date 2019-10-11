@@ -39,3 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 **网上的Android和Java相关教程实在是多到不行,但是很多都质量堪忧,我在此就不述前因,之谈现状了**
 1. 回答的技术过于陈旧
+    > - 方法过时
+    > - IDE版本太老
+    > - 等等
