@@ -42,3 +42,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
     > - 方法过时
     > - IDE版本太老
     > - 等等
+- 排版过于杂乱
+- 插入的关键步骤图片已经损坏
