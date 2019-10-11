@@ -37,4 +37,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-**网上的Android Java相关教程实在是多到不行,但是很多都质量堪忧**
+**网上的Android和Java相关教程实在是多到不行,但是很多都质量堪忧,我在此就不述前因,之谈现状了**
+1. 回答的技术过于陈旧
