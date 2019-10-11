@@ -37,10 +37,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-**网上的Android和Java相关教程实在是多到不行，但是很多随技术高深但文章质量堪忧，我在此就不述前因，现只谈现状了**
+**网上的Android、Java相关教程浩如烟海，但是很多随技术高深但文章质量堪忧，我在此就不述前因，现只谈现状了**
 - 回答的技术过于陈旧
     > - 方法过时
     > - IDE版本太老
     > - 等等
 - 排版过于杂乱
 - 插入的关键步骤图片已经损坏
+
+**为解决上述问题，我今后将把我的知识仓库分享出来，技术实在有限，希望对萌新能有所帮助**
+**我做出承诺，今后我写的所有文章，我每个月都会翻阅一次，确保各位可正常参阅**
